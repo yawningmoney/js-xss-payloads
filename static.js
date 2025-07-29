@@ -14,7 +14,7 @@
 
 // Core XSS Hunter Configuration
 const XSS_HUNTER_DOMAIN = 'https://example.bxss.in or https://js.rip/example';
-const CUSTOM_DOMAIN = 'example.com';
+const CUSTOM_DOMAIN = 'https://six.icu';
 
 // Utility Functions for Payload Generation
 const XSSUtils = {
