@@ -19,7 +19,7 @@ A complete JavaScript file containing:
 - **XSS Hunter integration**: Callbacks, data exfiltration, stealth payloads
 - **Polyglot payloads**: Multi-context exploitation
 
-### 2. `payload_uri.txt` - Additional JavaScript Payload URI
+### 2. `URI-Payloads.txt` - Additional JavaScript Payload URI
 A text file with ready-to-use URIs containing:
 - **JavaScript protocol URIs**: Direct execution via javascript:
 - **Data protocol URIs**: Base64 encoded and plain text
