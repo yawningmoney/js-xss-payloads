@@ -94,7 +94,7 @@ XSSPayloads.PayloadGenerator.encoded('<script>alert(1)</script>', 'url')
 XSSPayloads.PayloadGenerator.xssHunter('document.cookie')
 ```
 
-### 2\. Using payload\_uri.txt
+### 2\. Using URI-Payloads.txt
 
 #### URL Parameter Injection
 
